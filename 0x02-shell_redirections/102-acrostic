@@ -1,3 +1,2 @@
 #!/bin/bash
-cut -c 1 | paste -s -d ''
-chmod u+x 102-acrostic
+cut -c 1 | paste -s -d ' '
